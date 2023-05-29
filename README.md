@@ -7,10 +7,10 @@ The repository is structured in a hierarchical manner, with folders representing
 | Levels | Topics |
 | --- | --- |
 | Level 1 | Time Complexity  |
-| Level 2 | Arrays, Maths  |
-| Level 3 | Binary Search, Strings, Bit Manipulation, Two Pointers  |
-| Level 4 | Linked List, Stacks & Queues  |
-| Level 5 | Backtracking, Hashing  |
-| Level 6 | Heaps & Maps, Tree Data Structure  |
-| Level 7 | Dynamic Programming, Greedy Algorithm  |
-| Level 8 | Graph Datastructure and Algorithm  |
+| Level 2 | [Arrays](https://www.interviewbit.com/courses/programming/arrays), [Maths](https://www.interviewbit.com/courses/programming/math/#problems/)  |
+| Level 3 | [Binary Search](https://www.interviewbit.com/courses/programming/binary-search/#problems/), [Strings](https://www.interviewbit.com/courses/programming/strings/#problems/), [Bit Manipulation](https://www.interviewbit.com/courses/programming/bit-manipulation/#problems/), [Two Pointers](https://www.interviewbit.com/courses/programming/two-pointers/#problems/)  |
+| Level 4 | [Linked List](https://www.interviewbit.com/courses/programming/linked-lists/#problems/), [Stacks & Queues](https://www.interviewbit.com/courses/programming/stacks-and-queues/#problems/)  |
+| Level 5 | [Backtracking](https://www.interviewbit.com/courses/programming/backtracking/#problems/), [Hashing](https://www.interviewbit.com/courses/programming/hashing/#problems/)  |
+| Level 6 | [Heaps & Maps](https://www.interviewbit.com/courses/programming/heaps-and-maps/#problems/), [Tree Data Structure](https://www.interviewbit.com/courses/programming/tree-data-structure/#problems/)  |
+| Level 7 | [Dynamic Programming](https://www.interviewbit.com/courses/programming/dynamic-programming/#problems/), [Greedy Algorithm](https://www.interviewbit.com/courses/programming/greedy-algorithm/#problems/)  |
+| Level 8 | [Graph Datastructure and Algorithm](https://www.interviewbit.com/courses/programming/graph-data-structure-algorithms/#problems/)  |
